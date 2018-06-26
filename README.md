@@ -1,4 +1,4 @@
-# big-data(the projects in UNSW)
+# big-data
 Four projects in big data management
 
 1. (In Mapreduce) Given a directed graph, compute the average length of the in-coming edges for each node. 
